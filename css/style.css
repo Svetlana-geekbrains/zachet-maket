@@ -1,0 +1,39 @@
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+.header-headline {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 375px;
+}
+
+.header-menu-list {
+    display: flex;
+}
+
+.header-menu-item {
+    padding-right: 30px;
+}
+
+.header-buttons {
+    display: flex;
+}
+
+.header-slider {
+    padding: 40px 150px;
+}
+
+.header-slider-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-slider-radio {
+    width: 150px; /* временная ширина */
+    margin: 0 auto;
+}
